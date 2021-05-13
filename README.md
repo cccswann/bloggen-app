@@ -1,1 +1,3 @@
-# bloggen-app
+# Bloggen
+
+A simple blog application using Flask. 
